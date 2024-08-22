@@ -1,0 +1,20 @@
+section{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    align-items: center;
+}
+
+button{
+    max-height: 70px;
+    max-width: 50px;
+    overflow: hidden;
+    align-items: center;
+    text-align: center;
+}
+img{
+    height: 60px;
+    align-items: center;
+}
